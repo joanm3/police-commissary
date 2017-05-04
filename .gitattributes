@@ -1,1 +1,6 @@
 *.Content/Levels/CommisaryNewForm_BuiltData.uasset filter=lfs diff=lfs merge=lfs 
+*.Content/Blueprints/GabaritSet/Details
+*.Content/Meshes/Imported/Super_camputer_3D_Models/SC_Texture__1_.uasset filter=lfs diff=lfs merge=lfs -text
+
+*.Content/Meshes/Imported/Super_camputer_3D_Models/Super_camputer__5__Super_camputer.uasset filter=lfs diff=lfs merge=lfs -text
+
