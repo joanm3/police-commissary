@@ -4,3 +4,10 @@
 
 *.Content/Meshes/Imported/Super_camputer_3D_Models/Super_camputer__5__Super_camputer.uasset filter=lfs diff=lfs merge=lfs -text
 
+
+
+*.Content/Meshes/Imported/treesHIGH/Tree1/tree01Test_leaves_001.uasset filter=lfs diff=lfs merge=lfs -text
+
+*.Content/Meshes/Imported/treesHIGH/Tree1/Tree02Test_tree.uasset filter=lfs diff=lfs merge=lfs -text
+
+*.Content/Meshes/Imported/treesHIGH/Tree1/tree03Test_tree_002.uasset filter=lfs diff=lfs merge=lfs -text
